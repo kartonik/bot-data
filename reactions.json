@@ -2,5 +2,9 @@
   {
     "regex": "^!sq$",
     "command": "!echo zjebana komenda bo zjebany typ"
+  },
+  {
+    "regex": "^koty!$",
+    "command": "!echo 💥🐱"
   }
 ]
