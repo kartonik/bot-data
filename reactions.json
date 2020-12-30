@@ -6,5 +6,9 @@
   {
     "regex": "^koty!$",
     "command": "!echo 💥🐱"
+  },
+  {
+    "regex": "^de$",
+    "command": "!echo Niemcy lepsze 🇩🇪"
   }
 ]

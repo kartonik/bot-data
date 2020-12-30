@@ -1,0 +1,7 @@
+[
+  {
+    "pattern": "1 * * * * *",
+    "channelId": "790149550626832406",
+    "command": "!echo test crona"
+  }
+]
