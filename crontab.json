@@ -1,7 +1,7 @@
 [
   {
-    "pattern": "1 * * * * *",
-    "channelId": "790149550626832406",
-    "command": "!echo test crona"
+    "pattern": "0 8 * * * *",
+    "channelId": "689556822805315824",
+    "command": "!echo Dzień dobry wszystkim"
   }
 ]
